@@ -20,6 +20,9 @@
 % npm run serve
 ```
 
+ブラウザで http://localhost:8080/ にアクセスします。
+![sample](./docs/sample.png "sample")
+
 ## 参考資料
 * https://www.npmjs.com/package/@vue/cli
 * https://www.npmjs.com/package/@carbon/vue
